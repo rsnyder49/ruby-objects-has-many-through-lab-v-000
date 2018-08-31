@@ -23,4 +23,7 @@ class Genre
     end 
   end 
   
+  def artists 
+    songs.collect do
+  
 end 
